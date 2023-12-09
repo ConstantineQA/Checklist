@@ -1,5 +1,5 @@
 ### Вы можете скачать файл "Checklist" в этом репозитории или перейти по ссылке в Google Таблицы. 
-### Требования, на основе которых создан чек-лист, можно найти, перейдя по ссылке в Google Документы или в репозиторий [Specification](https://github.com/ConstantineQA/Specification).
+### Требования, на основе которых создан чек-лист, можно найти, перейдя по ссылке в Google Документы или репозиторий [Specification](https://github.com/ConstantineQA/Specification).
 
 ⬇️
 
